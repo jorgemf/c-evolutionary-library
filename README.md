@@ -1,4 +1,4 @@
-## Evolutionary library
+## Evolutionary library (No longer maintained)
 
 Some evolutionary algorithms written in C++:
  - Genetic Algorithm (GA)
