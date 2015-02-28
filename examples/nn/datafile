@@ -1,0 +1,11 @@
+# number of patters, input data, output data
+# example for xor function:
+4 2 1
+0 0
+1
+1 1
+1
+0 1
+0
+1 0
+0
